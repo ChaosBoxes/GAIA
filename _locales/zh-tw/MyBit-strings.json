@@ -1,0 +1,18 @@
+{
+  "Gaia.RGB_Program|block": "RGB編程燈",
+  "Gaia.Music|block": "音樂播放|%index",
+  "Gaia.Servo|block": "舵機(180)|編號 %num|角度 %value",
+  "Gaia.Servo2|block": "舵機(270)|編號 %num|角度 %value",
+  "Gaia.Servo3|block": "舵機(360)|編號 %num|方向 %pos|速度 %value",
+  "Gaia.MotorRun|block": " 直流電機|%index|速度(-255~255) %speed",
+  "Gaia.MotorRunDual|block": " 直流電機|%motor1|速度(-255~255) %speed1|%motor2|速度(-255~255) %speed2",
+  "Gaia.MotorStopAll|block": "停止所有電機",
+  "Gaia.StepperDegree|block": "步進電機(28BYJ-48) |%index|角度 %degree",
+  "Gaia.StepperTurn|block": "步進電機(28BYJ-48) |%index|轉 %turn|圈數",
+  "Gaia.StepperDual|block": "雙步進電機(角度) |B1 %degree1| B2 %degree2",
+  "Gaia.enPos.forward|block": "正轉",
+  "Gaia.enPos.reverse|block": "反轉",
+  "Gaia.enPos.stop|block": "停止",
+  "Gaia.PWMOFF|block":  "關閉PWM輸出|%index"
+  
+}
